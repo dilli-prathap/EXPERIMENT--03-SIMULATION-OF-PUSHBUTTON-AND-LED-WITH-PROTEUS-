@@ -72,8 +72,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 
-Name: Prathik TS
-Reg NO: 212224240117
+Name: Dilli prathap D
+Reg NO: 212224110014
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
